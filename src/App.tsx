@@ -4,7 +4,7 @@ import Hero from './Pages/Hero';
 
 function App() {
   return (
-    <div className="App bg-customPurple">
+    <div className="min-h-[90vh]">
      <Hero />
     </div>
   );

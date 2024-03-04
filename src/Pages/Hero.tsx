@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Hero :React.FC= () => {
+const Hero = () => {
   return (
-    <div className='text-center'>
-      <span className="text-customPurple">Taskify</span>
+    <div className='text-center p-10'>
+      <span className="text-customPurple text-3xl text-white">Taskify</span>
     </div>
   )
 }

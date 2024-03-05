@@ -9,6 +9,7 @@ module.exports = {
       },
       textColor: {
         white: '#ffffff',
+        customWhite: '#B4B4B8'
       }
     },
     boxShadow: {

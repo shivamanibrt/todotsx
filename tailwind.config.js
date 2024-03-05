@@ -11,6 +11,9 @@ module.exports = {
         white: '#ffffff',
       }
     },
+    boxShadow: {
+      custom: '0 10px 15px -3px rgb(0, 0, 0)', // Custom shadow color (red with 30% opacity)
+    },
   },
   plugins: [],
 }
